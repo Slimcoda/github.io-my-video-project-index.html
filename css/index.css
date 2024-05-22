@@ -1,4 +1,4 @@
-*{
+6*{
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -729,7 +729,7 @@ footer a:hover{
     position: relative;
   }
   div.carousel-item img{
-    height:50vh;
+    height:35vh;
     position: relative;
     z-index: 1;
 }
@@ -777,7 +777,7 @@ section#main{
  }
  .img-fluid {
   width: 100%;
-  height: 170px;
+  height: 200px;
 }
 
 p.prof-name{
