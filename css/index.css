@@ -1191,7 +1191,7 @@ section.top-div{
 }
 .carousel-item:before {
   content: "";
-  background-image:  rgb(10, 0, 24);
+  background-image:  rgb(10, 0.904, 24);
   position: absolute;
   bottom: 0;
   top: 0;
