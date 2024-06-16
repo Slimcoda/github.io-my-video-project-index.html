@@ -1169,11 +1169,12 @@ footer a:hover{
     text-align: center;
   }
 
+
   .carousel {
     position: relative;
   }
   div.carousel-item img{
-    height:50vh;
+    height:35vh;
     position: relative;
     z-index: 1;
 }
