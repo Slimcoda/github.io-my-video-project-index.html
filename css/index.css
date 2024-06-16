@@ -1191,13 +1191,13 @@ section.top-div{
 }
 .carousel-item:before {
   content: "";
-  background-image: linear-gradient(to top, rgb(10, 0, 24), transparent);
+  background-image:  rgb(25, 13, 48, 0.945);
   position: absolute;
   bottom: 0;
   top: 0;
   left: 0;
   right: 0;
-  z-index: 1; /* Ensure overlay is behind content */
+  z-index: 0; /* Ensure overlay is behind content */
 }
 
 .carousel-item h3 {
