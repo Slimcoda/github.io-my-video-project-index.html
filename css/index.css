@@ -1176,7 +1176,7 @@ footer a:hover{
   div.carousel-item img{
     height:35vh;
     position: relative;
-    z-index: 1;
+    z-index: 0;
 }
 nav.navbar.navbar-expand-lg{
   background-color: #2f0157;
@@ -1191,13 +1191,13 @@ section.top-div{
 }
 .carousel-item:before {
   content: "";
-  background-image:  rgb(25, 13, 48, 0.945);
+  background-image:  rgb(10, 0, 24);
   position: absolute;
   bottom: 0;
   top: 0;
   left: 0;
   right: 0;
-  z-index: 0; /* Ensure overlay is behind content */
+  z-index: 1; /* Ensure overlay is behind content */
 }
 
 .carousel-item h3 {
