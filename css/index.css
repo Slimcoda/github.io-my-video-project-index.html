@@ -1425,7 +1425,13 @@ div.praise-tower p{
   font-size: 14px;
 }
 
-
+ .testimonial-item .testimonial-author img {
+        width: 40px;
+        height:auto;
+        margin: 0 auto;
+        border-radius: 50%; 
+ }
+    
 img.leadership-image {
   border-radius: 50%;
   width: 60%;
