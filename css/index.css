@@ -1276,7 +1276,7 @@ footer a:hover{
   div.carousel-item img{
     height:35vh;
     position: relative;
-    z-index: 1;
+    z-index: 0;
 }
 nav.navbar.navbar-expand-lg{
   background-color: #2f0157;
@@ -1291,7 +1291,7 @@ section.top-div{
 }
 .carousel-item:before {
   content: "";
-  background-image:  rgb(10, 224, 24);
+  background-image:  rgb(10, 0, 24);
   position: absolute;
   bottom: 0;
   top: 0;
